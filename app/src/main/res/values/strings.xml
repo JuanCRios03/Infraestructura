@@ -1,0 +1,5 @@
+<resources>
+    <string-array name="spinner_item">Beer_Adviser
+        <item>Infraestructura</item>
+        <item>Recreación</item></string-array>
+</resources>
